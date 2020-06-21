@@ -1,3 +1,3 @@
 # Games
  
-Criando jogos para  edua
+Criando jogos para  educação
