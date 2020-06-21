@@ -33,6 +33,7 @@ asteroide = pygame.image.load('obstac2.png')
 nave = pygame.image.load('obstac3.png')
 deathstar = pygame.image.load('deathstar.png')
 fundo = pygame.image.load("fundo.png")
+
 tela_fim = pygame.image.load("over.png")
 
 # poe o audio no jogo
